@@ -1,3 +1,12 @@
+# About this branch
+
+[WARNING]
+====
+The so-called master branch is deprecated and is no longer kept up to date. 
+For the latest release, see the crw-2.y-rhel-8 branch with the largest y value.
+====
+
+
 # Code Ready Workspaces Operator Installer and Stack/Devfile/Lang Server Sidecar Dependencies Builder
 
 This repo was for CodeReady Workspaces 1.x and 2, in support of non-operator based deployment (OCP 3.11). As of 2.0, deployment to OCP 3.11 is hanlded by crwctl:
